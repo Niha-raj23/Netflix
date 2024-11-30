@@ -916,8 +916,8 @@ footer .query {
         grid-template-columns: 1fr 1fr;
     }
 }
-.background{
-    background-image: url("/assets/images/bg_img.jpg");
-    
-    
+.niha{
+    position: absolute;
+    width: 230vh;
+    height: 85vh;
 }
